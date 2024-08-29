@@ -1,0 +1,93 @@
+body{
+    background-color:#1C8DF8 ;
+}
+
+.main-heading{
+    text-align: center;
+    margin-top: 30px;
+    color:  #000000;
+   }
+
+.root{
+    background-color: white ;
+    border: 1px solid gray;
+       width: 650px;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 4px;
+    position: relative;
+    top: 50px;
+    left: 263px;
+
+ }
+ 
+ .button1{
+    margin: 10px;
+    padding: 3px;
+    border:  1px solid;
+    color: white;
+    cursor: pointer;
+    
+ }
+ 
+ #add-btn{
+    margin-left: 90px;
+
+background-color: #019DDA;
+color: white;
+width: 40px;
+height: 30px;
+  }
+
+#remove-btn
+{
+    background-color: #A9A9A9;
+    color: white;
+    width: 40px;
+    height: 30px;
+ }
+
+ #edit-btn
+ {
+ width: 60px;
+ height: 30px;
+ background-color: rgb(97, 190, 220);
+ border-radius: 4px;
+
+  }
+
+  #del-btn
+  {
+  width: 60px;
+  height: 30px;
+  background-color:  rgb(223, 100, 100);
+  border-radius: 4px;
+   }
+
+   table{
+       border-collapse: collapse;  /*Jhan jhan double borders a rhe hn unko single kr dega ye */
+    text-align: center;
+  }
+  th{
+       font-size: x-large;
+       padding: 20px;
+       padding-bottom: 0;
+   }
+  td{
+      border-bottom: 1px solid blueviolet ;
+  }
+  
+
+ .add-item-btn{
+    margin-left: 100px;
+    margin-top: 40px;
+    width: 100px;
+    height: 30px;
+    background-color:  #2282E2;
+    border: 1px solid;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+ }
+
+ 
